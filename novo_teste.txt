@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificação feita na main
+=======
+Nova funcionalidade em teste
+>>>>>>> feature/novo-teste
